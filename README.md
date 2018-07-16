@@ -2,7 +2,7 @@
 ------
 ## Synopsis
 
-This project marks my first steps in learning ruby by using the knowledge I have learnt in training to make a calculator.
+This project marks my first steps in learning ruby by using the knowledge I have learnt in training to make a calculator. This was done in week 5 of my Sparta training session.
 
 ------
 
